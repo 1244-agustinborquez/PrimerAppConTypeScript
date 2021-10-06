@@ -1,0 +1,6 @@
+en index.ts vamos a manejar la parte grafica.
+
+y en expenses.ts vamos a manejar mi logica y mi gastos.
+
+interfas es una estructura de la cual podemos definir tipos de datos
+para despues usarlos como subtipos de datos
